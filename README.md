@@ -78,8 +78,8 @@ src/
 - **Accessibilité** : lien d'évitement, labels sur tous les champs, `aria-invalid` et messages d'erreur liés aux champs, modal fermable avec Échap et focus géré.
 
 ## Utilisation de l'IA
+Une IA (Claude) a été utilisée comme assistant pendant la réalisation de ce projet, notamment pour :
 
-Une IA (claude) a été utilisée comme assistant pendant la réalisation de ce projet notamment pour :
-- proposer des améliorations de code et simplification de certaines fonctions.
-- Amélioration du css
-- debuggage de certaines erreurs
+- proposer des améliorations de code et simplifier certaines fonctions ;
+- améliorer le CSS ;
+- déboguer certaines erreurs.
